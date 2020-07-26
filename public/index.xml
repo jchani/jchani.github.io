@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Chan</title>
+    
+    
+    
+    <link>https://justinchan.one/</link>
+    <description>Recent content on Justin Chan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jul 2020 20:45:05 -0700</lastBuildDate>
+    
+	<atom:link href="https://justinchan.one/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://justinchan.one/posts/hello-world/</link>
+      <pubDate>Sun, 12 Jul 2020 20:45:05 -0700</pubDate>
+      
+      <guid>https://justinchan.one/posts/hello-world/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

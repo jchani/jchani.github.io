@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://justinchan.one/posts/hello-world/</loc>
+    <lastmod>2020-07-12T20:45:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinchan.one/</loc>
+    <lastmod>2020-07-12T20:45:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinchan.one/posts/</loc>
+    <lastmod>2020-07-12T20:45:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinchan.one/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://justinchan.one/tags/</loc>
+  </url>
+  
+</urlset>
