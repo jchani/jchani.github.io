@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Justin Chan</title>
+        <link>https://justinchan.one/posts/</link>
+        <description>Recent content in Posts on Justin Chan</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 08 Aug 2020 09:09:29 -0700</lastBuildDate>
+        <atom:link href="https://justinchan.one/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>https://justinchan.one/posts/hello-world/</link>
+            <pubDate>Sat, 08 Aug 2020 09:09:29 -0700</pubDate>
+            
+            <guid>https://justinchan.one/posts/hello-world/</guid>
+            <description>I&amp;rsquo;m starting this site to encourage myself to reflect and think through things more deeply, something I think is important in a world that gravitates towards sound bites and reductionism. There&amp;rsquo;ll be posts on my interests, current events, books I&amp;rsquo;ve read, life experiences, and questions I find interesting.
+It&amp;rsquo;ll also be a record of sorts for myself. Past photos and videos are great for reliving highs and lows, but don&amp;rsquo;t quite capture our thoughts at a particular moment in time in high resolution.</description>
+            <content type="html"><![CDATA[<p>I&rsquo;m starting this site to encourage myself to reflect and think through things more deeply, something I think is important in a world that gravitates towards sound bites and reductionism. There&rsquo;ll be posts on my interests, current events, books I&rsquo;ve read, life experiences, and <a href="https://justinchan.one/questions/">questions I find interesting</a>.</p>
+<p>It&rsquo;ll also be a record of sorts for myself. Past photos and videos are great for reliving highs and lows, but don&rsquo;t quite capture our thoughts at a particular moment in time in high resolution.</p>
+<p>Somewhat selfishly, in the future I&rsquo;m hoping I can just share a link to a post instead of re-explaining things and having to deal with the lossiness of my own memory, but we&rsquo;ll see if we get there.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

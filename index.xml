@@ -7,9 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 08 Aug 2020 09:09:29 -0700</lastBuildDate>
     
 	<atom:link href="https://justinchan.one/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://justinchan.one/posts/hello-world/</link>
+      <pubDate>Sat, 08 Aug 2020 09:09:29 -0700</pubDate>
+      
+      <guid>https://justinchan.one/posts/hello-world/</guid>
+      <description>I&amp;rsquo;m starting this site to encourage myself to reflect and think through things more deeply, something I think is important in a world that gravitates towards sound bites and reductionism. There&amp;rsquo;ll be posts on my interests, current events, books I&amp;rsquo;ve read, life experiences, and questions I find interesting.
+It&amp;rsquo;ll also be a record of sorts for myself. Past photos and videos are great for reliving highs and lows, but don&amp;rsquo;t quite capture our thoughts at a particular moment in time in high resolution.</description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>https://justinchan.one/questions/</link>
+      <pubDate>Sun, 19 Jul 2020 12:01:35 -0700</pubDate>
+      
+      <guid>https://justinchan.one/questions/</guid>
+      <description>Here&amp;rsquo;s a list of questions that I enjoy reading about and discussing. Some of these subjects I know very little about, so any opinions or suggestions on relevant reading would be appreciated.
+Technology
+  How can we mitigate bias in predictive systems that rely on algorithms or models that are based off of historical data, especially those in fields with material consequences like credit, criminal justice, university admissions, and hiring?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://justinchan.one/about/</link>
+      <pubDate>Sat, 18 Jul 2020 19:55:19 -0700</pubDate>
+      
+      <guid>https://justinchan.one/about/</guid>
+      <description>I&amp;rsquo;m currently a software engineer at Lyft, working on making the platform safer between users.
+I&amp;rsquo;ll be writing about things that interest me. Broadly speaking, that includes tech, software, economics, sports and sociology. Another way to frame my interests are these questions.
+In my free time, I enjoy reading, listening to music, and all things sports (badminton, soccer and more recently, running). I like figuring out, reasoning about, building and improving systems.</description>
+    </item>
     
   </channel>
 </rss>
