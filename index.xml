@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 17:41:57 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 17:41:57 -0700</lastBuildDate>
     
 	<atom:link href="https://justinchan.one/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Going from Java to Python: the Good, the Surprising, and the Bad</title>
       <link>https://justinchan.one/posts/java-to-python/</link>
-      <pubDate>Sat, 08 Aug 2020 17:41:57 -0700</pubDate>
+      <pubDate>Sun, 23 Aug 2020 17:41:57 -0700</pubDate>
       
       <guid>https://justinchan.one/posts/java-to-python/</guid>
       <description>7 months ago I joined Lyft from Salesforce. It’s been interesting seeing the differences in the two companies’ tech stacks, tooling and culture. Now that I’ve completed several projects, I feel somewhat equipped to share my two cents on working in a Java vs. Python codebase. It’s certainly not an apples to apples comparison, as a developer’s experience is affected by many factors including infrastructure, tech debt, company culture, and the specific framework and libraries used1.</description>
